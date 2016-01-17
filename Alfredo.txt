@@ -1,0 +1,17 @@
+# ITESM-ITC 2016 - Software Engineering
+
+Alfredo Sanchez Ruiz
+
+#### Experience
+
+* Ruby - Basic usage
+* Rails - Non
+* Unit Testing - Non
+* Test Coverage - Practicly non
+* Code analysis - Basic
+* Agile development - Scrum
+
+#### What do you expect from the course?
+
+I would like to know the basics about this tipe of software distribution model so I can work on a with it in the future.
+
